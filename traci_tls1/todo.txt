@@ -1,0 +1,8 @@
+1) remove some useless and harmful actions (like all reds, vehicles colliding) (tried)
+2) solve the simulation reopening problem
+3) change the route file such that all lanes have some incoming and outgoing vehicles 
+4) try to change phase duration and hyperparameters  (maybe stack another layer) 
+5) write further code to always be greedy after training   (tried)
+6) obtain statistics for round robin & RL for comparing
+7) why not directly feed s1_vec to network?
+

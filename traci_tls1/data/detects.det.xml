@@ -1,0 +1,18 @@
+<additional>
+<inductionLoop id='1' lane='1to2_0' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='2' lane='1to2_1' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='3' lane='1to2_2' pos='20' freq='10' file = 'cross.out'/>
+
+<inductionLoop id='4' lane='3to2_0' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='5' lane='3to2_1' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='6' lane='3to2_2' pos='20' freq='10' file = 'cross.out'/>
+
+<inductionLoop id='7' lane='4to2_0' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='8' lane='4to2_1' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='9' lane='4to2_2' pos='20' freq='10' file = 'cross.out'/>
+
+<inductionLoop id='10' lane='5to2_0' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='11' lane='5to2_1' pos='20' freq='10' file = 'cross.out'/>
+<inductionLoop id='12' lane='5to2_2' pos='20' freq='10' file = 'cross.out'/>
+
+</additional>
